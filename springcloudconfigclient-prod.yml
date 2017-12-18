@@ -1,0 +1,5 @@
+test:
+  message: AAAAAA
+  
+server:
+  port: 0
