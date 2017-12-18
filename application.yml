@@ -1,1 +1,5 @@
-test : abcd
+test:
+  message: ARUN1234
+  
+server:
+  port: 0
