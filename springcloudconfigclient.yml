@@ -2,5 +2,3 @@ test:
   message: Arun
 server:
   port: 0
-new:
-  text: newtext
