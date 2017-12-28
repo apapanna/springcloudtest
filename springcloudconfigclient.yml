@@ -3,4 +3,4 @@ test:
 server:
   port: 0
 new:
-  text: newtext1
+  text: newtext123
